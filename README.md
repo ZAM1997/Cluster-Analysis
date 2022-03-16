@@ -17,9 +17,9 @@
 * **The model is just intended for educational purposes and cannot be used for any business decisions**
 
 ### Metrics Used
-* **K Means
-* **Number of Clusters(K)
-* **Dendogram
+* **K Means**
+* **Number of Clusters(K)**
+* **Dendogram**
 
 ### Plots in the model:
 * **Line Plot*
