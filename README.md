@@ -22,6 +22,6 @@
 * **Dendogram**
 
 ### Plots in the model:
-* **Line Plot*
+* **Line Plot**
 * **Dendogram**
 * **Scatter Plot**
